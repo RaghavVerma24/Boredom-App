@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bored App</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet"> 
+</head>
+<body>
+  <div class="container">
+    <h1>bored? we can help.</h1>
+    <div class="textPara"><h3>Oh, so you're bored. Well, you've come to right place. We can't promise that you won't be bored, but you sure will waste your time. sit back and relax go through the most non boring videos and activities on the internet. </h3></div>
+    <span class = "pad">
+      <button onclick="randomVideo()" class="glow-on-hover" style="margin-top: 15px;">amuse yourself</button>
+      <div class="dropdown">
+        <button class="glow-on-hover" style="margin-top: -15px; margin-left: 23px;">cure boredom</button>
+        <div class="dropdown-content">
+          <a href="ButtonGame/button.html" target="_blank">Button Game</a>
+          <hr></hr>
+          <a href="Connect4/Connect4.html" target="_blank">Connect 4</a>
+          <hr></hr>
+          <a href="RockPaperScissors/rock.html" target="_blank">Rock-Paper-Scissors</a>
+          <hr></hr>
+          <a href="TicTacToe/TicTacToe.html" target="_blank">TicTacToe</a>
+        </div>
+      </div>
+    </span>
+
+    <iframe id = "videoPlayer" width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay = 1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 15px"></iframe>
+      <!--</video>-->
+  </div>
+  <script src="script.js"></script>
+      <div class = "img">
+        <img src="goofy.png" alt="GOOFY" width="300" height="800" position: "center">
+      </div>
+</body>
+</html>
+
+<!--
+https://goofy-website.hashcash.repl.co/ButtonGame/button.html
+-->
