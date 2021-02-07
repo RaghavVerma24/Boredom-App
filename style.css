@@ -118,13 +118,14 @@ h3 {
   border: none;
   cursor: pointer;
   border-radius: 10px;  
-  opacity: 90%;
+  opacity: 95%;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
   border-radius: 10px;  
+  opacity: 95%;
 }
 
 .dropdown-content {
@@ -136,6 +137,7 @@ h3 {
   margin-top: -20px;
   min-width: 200px;
   border-radius: 10px;  
+  opacity: 95%;
 }
 
 .dropdown-content a {
