@@ -4,6 +4,6 @@ The rising cases of COVID-19 and worldwide lockdowns have put the entire world i
 
 Our website provides one place where people can get access to random funny YouTube videos and "Easy" Games with the AI. 
 
-OUT MOTIVE IS TO MAKE YOU SMILE!
+OUR MOTIVE IS TO MAKE YOU SMILE!
 
 Project by; Gagan, Hash, Nadish and Raghav
