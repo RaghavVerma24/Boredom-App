@@ -6,4 +6,4 @@ Our website provides one place where people can get access to random funny YouTu
 
 OUR MOTIVE IS TO MAKE YOU SMILE!
 
-Project by; Gagan, Hash, Nadish and Raghav
+Project by; Raghav, Gagan, Hash and Nadish  
